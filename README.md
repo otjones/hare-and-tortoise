@@ -1,8 +1,8 @@
 # hare-and-tortoise
 Hare and Tortoise Game Engine
 
-The second build of the game engine for the board game "Hare and Tortoise".
-The programme allows players to challenge the computer at the board game.
+The second build of a game engine I'm working on for the board game "Hare and Tortoise".
+The programme allows players to challenge the computer at the board game (it has beaten us already).
 Very early stages of development and runs in command line.
 
 ################
