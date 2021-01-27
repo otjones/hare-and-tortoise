@@ -7,6 +7,8 @@ Very early stages of development and runs in command line.
 
  - NOTES
 
+Currently does NOT support Hare chance cards, the Hare square is treated a neutral square with no action.
+
 MAX 6 players
 
 Type as instructed and press Enter key to continue
