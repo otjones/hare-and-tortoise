@@ -5,14 +5,6 @@ The second build of a game engine I'm working on for the board game "Hare and To
 The programme allows players to challenge the computer at the board game (it has beaten us already).
 Very early stages of development and runs in command line.
 
-################
-
- - Carrots V2 - 
-
-Oscar Jones 2021
-
-################
-
  - NOTES
 
 MAX 6 players
