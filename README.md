@@ -48,6 +48,6 @@ X - Edit player information.
 S - Set the computer search length (default: 10000, min recommended: 1000, max recommended: 100000).
 
 
- - Knwon bugs
+ - KNOWN BUGS
  
  May crash if you ask the computer to move once a player has already won the game.
