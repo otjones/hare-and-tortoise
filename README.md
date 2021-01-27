@@ -38,10 +38,15 @@ The computer will move itself and tell you the move in the form (move, cost) e.g
  - USING THE MENU.
 
 M - Begin a move.
+
 I - Display current game info.
+
 E - End the game.
+
 X - Edit player information.
+
 S - Set the computer search length (default: 10000, min recommended: 1000, max recommended: 100000).
+
 
  - Knwon bugs
  
